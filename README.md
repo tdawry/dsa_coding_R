@@ -16,7 +16,7 @@ Answer the following questions.
 
 ## Questions
 
-Which state has the highest education score? use _summary()_
+Which state has the highest education score? use _View()_
 
 Which variable has the highest mean? use _summary()_
 
