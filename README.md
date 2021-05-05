@@ -1,1 +1,1 @@
-# dsa_coding_R
+# DSA's Coding School (with R)
